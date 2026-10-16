@@ -2,7 +2,7 @@
 
 **Classical machine learning baselines for Multiple Sclerosis lesion segmentation on multi-modal brain MRI (FLAIR, T1, T2).**
 
-Pixel-wise lesion classification using hand-crafted texture and intensity features, comparing five classical ML models: Linear SVM, RBF SVM, Logistic Regression, AdaBoost, and XGBoost, on the [MSLesSeg](https://iplab.dmi.unict.it/mfs/ForArticles/MSLesSeg/) dataset.
+Pixel-wise lesion classification using hand-crafted texture and intensity features, comparing five classical ML models: Linear SVM, RBF SVM, Logistic Regression, AdaBoost, and XGBoost, on the MSLesSeg dataset.
 
 *Author: Melina Rajabi, Summer 2025*
 
